@@ -1,0 +1,19 @@
+{
+  "Environments": [
+    {
+      "id": 1,
+      "name": "224Dev",
+      "uptimeDuration": "2.5hrs"
+    },
+    {
+      "id": 2,
+      "name": "226Dev",
+      "uptimeDuration": "4hrs"
+    },
+    {
+      "id": 2,
+      "name": "227Dev",
+      "uptimeDuration": "1hrs"
+    }
+  ]
+}
